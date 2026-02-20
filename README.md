@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#ff1a1a;">🌑 TDA45 — Night Mode Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=Full+Dark+Mode+Builder;Game+%26+App+Developer;Creator+of+Chatter-LiveChat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=Full+Dark+Mode+Builder;Game+%26+App+Developer;Creator+of+Chatter+LiveChat;Bir+Türk+Geliştirici" />
 </p>
 
 ---
