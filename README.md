@@ -25,7 +25,6 @@ https://sites.google.com/view/dev-tda-45/ana-sayfa
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=red"/>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=red"/>
   <img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=red"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=red"/>
