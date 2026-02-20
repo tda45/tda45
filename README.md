@@ -48,14 +48,3 @@ https://sites.google.com/view/dev-tda-45/ana-sayfa
 
 Gece modunda kod yazmak bir tercih değil, yaşam tarzı.  
 Gerçek zamanlı sistemler, oyun projeleri ve modern uygulamalar geliştiriyorum.
-
----
-
-<p align="center" style="color:#ff0000;">
-  ███████╗██╗   ██╗███████╗██████╗  
-  ██╔════╝██║   ██║██╔════╝██╔══██╗ 
-  █████╗  ██║   ██║█████╗  ██████╔╝ 
-  ██╔══╝  ██║   ██║██╔══╝  ██╔══██╗ 
-  ██║     ╚██████╔╝███████╗██║  ██║ 
-  ╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝ 
-</p>
