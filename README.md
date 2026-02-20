@@ -1,17 +1,17 @@
-<h1 align="center">🌑 TDA45 — Night Mode Developer</h1>
+<h1 align="center">🌑 TDA45 — Gece Modu Geliştirici</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&size=24&lines=Full+Dark+Mode+Builder;Game+%26+App+Developer;Creator+of+Chatter+LiveChat;Bir+Türk+Geliştirici" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&size=24&lines=Gece+Modu+Kodlayıcı;Oyun+%26+Uygulama+Geliştirici;Chatter+LiveChat+Kurucusu;Bir+Türk+Geliştirici" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile-Dark%20Red-black?style=for-the-badge&logo=github&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Profil-Koyu%20Kırmızı-black?style=for-the-badge&logo=github&logoColor=red"/>
   <img src="https://komarev.com/ghpvc/?username=tda45&color=red&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🔥 Featured Project — Chatter-LiveChat
+## 🔥 Öne Çıkan Proje — Chatter-LiveChat
 
 Gerçek zamanlı sohbet altyapısı üzerine geliştirdiğim en sevdiğim proje.
 
@@ -23,13 +23,13 @@ Gerçek zamanlı sohbet altyapısı üzerine geliştirdiğim en sevdiğim proje.
 
 ---
 
-## 🌐 Website
+## 🌐 Web Sitem
 
 🚀 https://sites.google.com/view/dev-tda-45/ana-sayfa
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Kullandığım Teknolojiler
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=ff0000"/>
@@ -39,7 +39,7 @@ Gerçek zamanlı sohbet altyapısı üzerine geliştirdiğim en sevdiğim proje.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub İstatistiklerim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tda45&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d0d" />
@@ -51,10 +51,10 @@ Gerçek zamanlı sohbet altyapısı üzerine geliştirdiğim en sevdiğim proje.
 
 ---
 
-## ⚡ Vision
+## ⚡ Vizyonum
 
-Gece modunda kod yazmak bir tercih değil, strateji.  
-Gerçek zamanlı sistemler, oyun projeleri ve modern uygulamalar geliştiriyorum.
+Gece modunda kod yazmak bir tercih değil, stratejidir.  
+Gerçek zamanlı sistemler, modern uygulamalar ve performans odaklı projeler geliştiriyorum.
 
 ---
 
