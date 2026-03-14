@@ -38,6 +38,7 @@ Gerçek zamanlı sohbet altyapısı üzerine geliştirdiğim en sevdiğim proje.
   <img src="https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=ff0000"/>
   <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0000"/>
   <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff0000"/>
+  <img src="https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=c++&logoColor=ff0000"/>
 </p>
 
 ---
