@@ -1,7 +1,7 @@
 <h1 align="center">🌑 TDA45 — Gece Modu Geliştirici</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&size=24&lines=Gece+Modu+Kodlayıcı;Oyun+%26+Uygulama+Geliştirici;Chatter+LiveChat+Kurucusu;Bir+Türk+Geliştirici" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&size=24&lines=Gece+Modu+Kodlayıcı;Oyun+%26+Uygulama+Geliştirici;TDown+Remaster+Kurucusu;Bir+Türk+Geliştirici" />
 </p>
 
 <p align="center">
