@@ -16,8 +16,8 @@
 Gerçek zamanlı sohbet altyapısı üzerine geliştirdiğim en sevdiğim proje.
 
 <p align="center">
-  <a href="https://github.com/tda45/Chatter-LiveChat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tda45&repo=Chatter-LiveChat&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d"/>
+  <a href="https://github.com/tda45/TDown-Remaster">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tda45&repo=TDown-Remaster&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d"/>
   </a>
 </p>
 
