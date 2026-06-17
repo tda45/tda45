@@ -11,12 +11,12 @@
 
 ---
 
-## 🔥 Öne Çıkan Proje — Chatter-LiveChat
+## 🔥 Öne Çıkan Proje — Comper Browser Pro Lite
 
-Gerçek zamanlı sohbet altyapısı üzerine geliştirdiğim en sevdiğim proje.
+Tarayıcı ama hızlı ve güçlü + Firefox açık kaynaklı olan ve diğerlerine (Comper Browser Remaster) fark açıp ingilizce kullanılan bir tarayıcı bu projeyi günlerdir derleyip test ettim ve hala buna planlarım var yani üzerine geliştirdiğim en sevdiğim proje. (üstelik winget desteğide var:winget install tda45.ComperBrowserProLite)
 
 <p align="center">
-  <a href="https://github.com/tda45/TDown-Remaster">
+  <a href="https://github.com/tda45/Comper-Browser-Pro-Lite">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tda45&repo=TDown-Remaster&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d"/>
   </a>
 </p>
@@ -25,7 +25,7 @@ Gerçek zamanlı sohbet altyapısı üzerine geliştirdiğim en sevdiğim proje.
 
 ## 🌐 Web Sitem
 
-🚀 https://sites.google.com/view/dev-tda-45/ana-sayfa
+🚀 https://tda45.github.io
 
 ---
 
@@ -39,6 +39,7 @@ Gerçek zamanlı sohbet altyapısı üzerine geliştirdiğim en sevdiğim proje.
   <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0000"/>
   <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff0000"/>
   <img src="https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=c++&logoColor=ff0000"/>
+  <img src="https://img.shields.io/badge/TDA-0d0d0d?style=for-the-badge&logo=c++&logoColor=ff0000"/>
 </p>
 
 ---
@@ -57,8 +58,7 @@ Gerçek zamanlı sohbet altyapısı üzerine geliştirdiğim en sevdiğim proje.
 
 ## ⚡ Vizyonum
 
-Gece modunda kod yazmak bir tercih değil, stratejidir.  
-Gerçek zamanlı sistemler, modern uygulamalar ve performans odaklı projeler geliştiriyorum.
+İnsanların uğraşamayacağı veya dertlerini yapıp hemde türk malı (bazıları değil ama çoğunlukla türkçe dilli) ve projelerini açık kaynaklı yapan,insanlara halk kahramanı olmak için gelmiş bir kodlama sevdalısıyım
 
 ---
 
