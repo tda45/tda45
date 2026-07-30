@@ -31,15 +31,8 @@ Tarayıcı ama hızlı ve güçlü + Firefox açık kaynaklı olan ve diğerleri
 
 ## 🛠 Kullandığım Teknolojiler
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=ff0000"/>
-  <img src="https://img.shields.io/badge/Electron-0d0d0d?style=for-the-badge&logo=electron&logoColor=ff0000"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff0000"/>
-  <img src="https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=ff0000"/>
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff0000"/>
-  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff0000"/>
-  <img src="https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=c++&logoColor=ff0000"/>
-  <img src="https://img.shields.io/badge/TDA-0d0d0d?style=for-the-badge&logo=c++&logoColor=ff0000"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,git,github,vscode,visualstudio,electron,nodejs&perline=7"/>
 </p>
 
 ---
