@@ -1,3 +1,6 @@
+<img width="2000" height="500" alt="7660717478654240212" src="https://github.com/user-attachments/assets/df9255dd-1aee-4cb5-8b1b-044fe3a873a7" />
+
+
 <h1 align="center">🌑 TDA45 — Gece Modu Geliştirici</h1>
 
 <p align="center">
@@ -29,10 +32,10 @@ Tarayıcı ama hızlı ve güçlü + Firefox açık kaynaklı olan ve diğerleri
 
 ---
 
-## 🛠 Kullandığım Teknolojiler
+## 🛠 Kullandığım Teknolojiler (Gizli Hayattada Kullandığım Dahil)
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,git,github,vscode,visualstudio,electron,nodejs,unrealengine,godot,unity&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,ts,git,github,vscode,visualstudio,electron,nodejs,unrealengine,godot,unity&perline=7"/>
 </p>
 
 ---
@@ -49,6 +52,13 @@ Tarayıcı ama hızlı ve güçlü + Firefox açık kaynaklı olan ve diğerleri
 
 ---
 
+## Cihazlarım
+
+PC:HP 255 15.6 inch G9 Notebook PC (8 GB Ram,512 GB SSD,AMD Ryzen 5 5625U With Radeon Graphics)
+Telefon:Redmi Note 8 Pro
+
+---
+
 ## ⚡ Vizyonum
 
 İnsanların uğraşamayacağı veya dertlerini yapıp hemde türk malı (bazıları değil ama çoğunlukla türkçe dilli) ve projelerini açık kaynaklı yapan,insanlara halk kahramanı olmak için gelmiş bir kodlama sevdalısıyım
@@ -58,3 +68,9 @@ Tarayıcı ama hızlı ve güçlü + Firefox açık kaynaklı olan ve diğerleri
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=120&section=footer"/>
 </p>
+
+---
+
+## Easter Egg
+
+<img width="5000" height="1000" alt="Disappointed Instagram GIF" src="https://github.com/user-attachments/assets/d8031d10-bd53-44e1-b0f8-fea3f1134ab8" />
