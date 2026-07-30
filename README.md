@@ -32,7 +32,7 @@ Tarayıcı ama hızlı ve güçlü + Firefox açık kaynaklı olan ve diğerleri
 ## 🛠 Kullandığım Teknolojiler
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,git,github,vscode,visualstudio,electron,nodejs&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,git,github,vscode,visualstudio,electron,nodejs,unrealengine,godot,unity&perline=7"/>
 </p>
 
 ---
