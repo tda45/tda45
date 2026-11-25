@@ -35,7 +35,7 @@ Tarayıcı ama hızlı ve güçlü + Firefox açık kaynaklı olan ve diğerleri
 ## 🛠 Kullandığım Teknolojiler (Gizli Hayattada Kullandığım Dahil)
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,kotlin,cpp,cs,js,html,css,ts,git,github,vscode,visualstudio,tensorflow,pytorch,electron,nodejs,unrealengine,godot,unity&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,kotlin,cpp,cs,js,html,css,ts,git,github,vscode,visualstudio,tensorflow,pytorch,electron,nodejs,unrealengine,godot,unity,rust&perline=7"/>
 </p>
 
 ---
